@@ -1,0 +1,16 @@
+#menuList {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 10px;
+}
+
+#foodDetailInfo img {
+    border-radius: 10px;
+    
+}
+.headline{
+        color: rgb(0, 87, 128);
+        text-align: center;
+        margin: 10px;
+        font-size: 50px;
+}
